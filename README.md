@@ -1,4 +1,15 @@
-# Zed
+> [!IMPORTANT]
+> Remove this line to confirm you've reviewed this PR before submitting.
+
+# Dez
+
+Fork experimental de Zed para incorporar herramientas de bases de datos dentro del editor.
+
+Ver [el estado de Dez y el proceso de actualización](DEZ.md). Por ahora el nombre de la aplicación y sus funciones siguen siendo los de Zed.
+
+---
+
+## Zed
 
 [![Zed](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zed-industries/zed/main/assets/badge/v0.json)](https://zed.dev)
 [![CI](https://github.com/zed-industries/zed/actions/workflows/run_tests.yml/badge.svg)](https://github.com/zed-industries/zed/actions/workflows/run_tests.yml)
